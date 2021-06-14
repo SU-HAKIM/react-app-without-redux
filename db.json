@@ -3,74 +3,62 @@
     {
       "id": 1,
       "name": "Phone 1",
-      "imageLink": "./images/phone1.webp",
-      "price": "400"
+      "price": 400
     },
     {
       "id": 2,
       "name": "Phone 2",
-      "imageLink": "./images/phone2.webp",
-      "price": "400"
+      "price": 300
     },
     {
       "id": 3,
       "name": "Phone 3",
-      "imageLink": "./images/phone3.webp",
-      "price": "400"
+      "price": 290
     },
     {
       "id": 4,
       "name": "Phone 4",
-      "imageLink": "./images/phone4.webp",
-      "price": "400"
+      "price": 410
     },
     {
       "id": 5,
       "name": "Phone 5",
-      "imageLink": "./images/phone5.webp",
-      "price": "400"
+      "price": 500
     },
     {
       "id": 6,
       "name": "Phone 6",
-      "imageLink": "./images/phone6.webp",
-      "price": "400"
+      "price": 220
     },
     {
       "id": 7,
       "name": "Phone 7",
-      "imageLink": "./images/phone7.webp",
-      "price": "400"
+      "price": 230
     },
     {
       "id": 8,
       "name": "Phone 8",
-      "imageLink": "./images/phone8.webp",
-      "price": "400"
+      "price": 210
     },
     {
       "id": 9,
       "name": "Phone 9",
-      "imageLink": "./images/phone9.webp",
-      "price": "400"
+      "price": 340
     },
     {
       "id": 10,
       "name": "Phone 10",
-      "imageLink": "./images/phone10.webp",
-      "price": "400"
+      "price": 230
     },
     {
       "id": 11,
       "name": "Phone 11",
-      "imageLink": "./images/phone11.webp",
-      "price": "400"
+      "price": 340
     },
     {
       "id": 12,
       "name": "Cot",
-      "imageLink": "./images/cot1.webp",
-      "price": "20"
+      "price": 12
     }
   ]
 }

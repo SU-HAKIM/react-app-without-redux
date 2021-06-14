@@ -1,13 +1,12 @@
-import React from 'react';
-import Header from './components/headers';
+import React, { Component } from 'react'
+import Parent from './components/Parent'
 
-
-function App() {
-  return (
-    <div className='app'>
-      <Header />
-    </div>
-  );
+export default class App extends Component {
+  render() {
+    return (
+      <div>
+        <Parent />
+      </div>
+    )
+  }
 }
-
-export default App;
