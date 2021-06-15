@@ -1,12 +1,13 @@
-import React, { Component } from 'react'
-import Parent from './components/Parent'
+import React, { Component } from 'react';
 
-export default class App extends Component {
+class App extends Component {
   render() {
     return (
       <div>
-        <Parent />
+
       </div>
-    )
+    );
   }
 }
+
+export default App;
